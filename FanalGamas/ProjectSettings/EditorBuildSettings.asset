@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/Main Menu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Main/Choose a character.unity
+    guid: facdedd8c1eba2b4bbdfddeac956f9d8
+  - enabled: 1
+    path: Assets/Scenes/Map/00_Level Selection.unity
+    guid: 482d397f949d4374aa83152655a89c6b
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_01/01_Level Selection.unity
+    guid: e6d0b1d32b04200478c69461bb4f33d0
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_01/07_Level 07.unity
+    guid: 5409abf755e1b4f80b29edbc455cf404
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_01/08_Level 08.unity
+    guid: 2f30a6fa664454b9e80c44d1bc24f2f7
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_01/09_Level 09.unity
+    guid: 9f675728678a04a9bb9349cf074dbc1a
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_01/10_Level 10.unity
+    guid: dfb4e02dcfe91430f920e01039f03930
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_01/11_Level 11.unity
+    guid: eb6259d4d6f7c46a895739deaff3b5a3
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_01/12_Level 12.unity
+    guid: 24a93d707e942422fb757d405487ed76
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_02/02_Level Selection.unity
+    guid: 993db590909199b4a8b85bf0e3bb3d8f
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_03/03_Level Selection.unity
+    guid: 44e7bc774d8364d49bfa6791523c4040
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_04/04_Level Selection.unity
+    guid: 178b1f79000ea4d4cb1ef42a0209225b
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_05/05_Level Selection.unity
+    guid: 042481f666b1d2c4dbf7cfd3a0b2c470
+  - enabled: 1
+    path: Assets/Scenes/Map/mapsmall_06/06_Level Selection.unity
+    guid: 5a1e02c23eef49b4e99fcd1b1b36ad86
+  m_configObjects: {}
